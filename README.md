@@ -27,6 +27,7 @@ The following **optional** features are implemented:
 The following **additional** features are implemented:
 
 * [x] personalized launch icon added.
+* [x] improved guess function. If user guessed the correct word in the first or second attempt, user does not need to wait till the 3rd attempt to get confetti effect, toast message recording success streak,correct answer display and the reset button.
 
 ## Video Walkthrough
 
